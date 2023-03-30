@@ -12,6 +12,6 @@ if($resultado){
     }
 }
 
-echo json_encode($resultado);
+echo json_encode($dados);
 
 ?>
