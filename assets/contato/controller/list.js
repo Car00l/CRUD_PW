@@ -21,6 +21,7 @@ $(document).ready(function(){
                     </tr>
                 `)
             }
+            $('body').append(`<script src="assets/contato/controller/view.js"></scrip>`)
             $('body').append(`<script src="assets/contato/controller/delete.js"></scrip>`)
         }
     })
